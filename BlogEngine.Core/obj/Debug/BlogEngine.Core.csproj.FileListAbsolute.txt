@@ -12,3 +12,4 @@ C:\Projects\BlogEngine.NET-3.2\BlogEngine.Core\bin\Debug\NuGet.Core.dll
 C:\Projects\BlogEngine.NET-3.2\BlogEngine.Core\bin\Debug\ICSharpCode.SharpZipLib.xml
 C:\Projects\BlogEngine.NET-3.2\BlogEngine.Core\obj\Debug\BlogEngine.Core.dll
 C:\Projects\BlogEngine.NET-3.2\BlogEngine.Core\obj\Debug\BlogEngine.Core.pdb
+C:\Projects\BlogEngine.NET-3.2\BlogEngine.Core\obj\Debug\BlogEngine.Core.csprojResolveAssemblyReference.cache
